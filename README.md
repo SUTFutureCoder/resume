@@ -62,36 +62,35 @@
 * 2015.02 WSPDM2 基于PHP Websocket的数据库管理器
 >1. 允许DBA进行同步协作，防止脏数据产生。
 >2. 人性化功能和交互设计，极速构建SQL语句。
->3. 多达13种数据库支持以及一键备份/回滚数据功能。
-> **WebSocket/CodeIgniter框架/SPL/PDO/memcache/设计模式/ECharts**
+>3. 多达13种数据库支持以及一键备份/回滚数据功能。  
+>**WebSocket/CodeIgniter框架/SPL/PDO/memcache/设计模式/ECharts**
 
 * 2015.02 VirtualShell2 远程执行服务器命令
 >1. 单页面设计，命令行式交互，仿操作系统API设计JS函数
 >2. 松耦合语言包设计，可以随意装卸任意语言包
->3. 可在无VPN或SSH条件下使用
-> **WebSocket/内存共享/Linux系统命令执行/安全策略**
+>3. 可在无VPN或SSH条件下使用  
+>**WebSocket/内存共享/Linux系统命令执行/安全策略**
 
 * 2015.01 沈阳工业大学排课系统1.5
 >1. 一键导出指定/所有实验室或教师课程安排及对应课程表于EXCEL文档中以便打印。
->2. 此系统已成功完成2014及2015年度学院实验室排课任务
-**Ajax/设计模式/PHP EXCEL**
+>2. 此系统已成功完成2014及2015年度学院实验室排课任务  
+>**Ajax/设计模式/PHP EXCEL**
 
 * 2014.10 三位一体信息化社团建设套件第二版（**开发进行中**）
 
 * 2014.09 WebSocket框架Workerman二次开发
->将聊天室改造成允许API调用的底层引擎，意在此后的工程中取代Ajax
-**WebSocket/cURL/OOP**
+>将聊天室改造成允许API调用的底层引擎，意在此后的工程中取代Ajax  
+>**WebSocket/cURL/OOP**
 
 * 2014.07 ChatOS在线聊天系统
->仿腾讯WEBQQ聊天系统
-**WebSocket/Ajax**
+>仿腾讯WEBQQ聊天系统  
+>**WebSocket/Ajax**
 
 * 2014.03 三位一体信息化社团建设套件
 >1. 为解决社团现有问题而独立开发的信息化社团建设软件
 >2. 本套件由计算机控制台、移动端和Wiki百科组成
-> 该套件获得**第七届中国大学生计算机设计大赛 全国总决赛一等奖**
-
-**Ajax/CodeIgniter框架/PhoneGap/MediaWiki/PHP EXCEL**
+> 该套件获得**第七届中国大学生计算机设计大赛 全国总决赛一等奖**  
+>**Ajax/CodeIgniter框架/PhoneGap/MediaWiki/PHP EXCEL**
 
 * 2013.08 - 2014.11 沈阳工业大学在线评测系统 13.10/14.04/14.10
 >二次开发于华中科技大学ACM著**HUSTOJ**。全新设计界面，加强后台管理员功能：作弊检测、随机密码生成、一键配置校赛等

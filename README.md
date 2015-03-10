@@ -25,7 +25,7 @@
 * 单元测试：PHPUnit
 * 其他：WebSocket/Ajax/PDO/SPL/memcache/cURL/Python/OOP/设计模式/正则表达式/性能优化/适应性编程风格
 * 以Linux作为日常操作系统 
-* 管理里云服务器和一台校园服务器的业余OP
+* 业余管理阿里云和一台校园服务器OP
 
 ---
 

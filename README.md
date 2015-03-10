@@ -34,13 +34,13 @@
 >1. 允许DBA进行同步协作，防止脏数据产生。
 >2. 人性化功能和交互设计，极速构建SQL语句。
 >3. 多达13种数据库支持以及一键备份/回滚数据功能。  
->**WebSocket/CodeIgniter框架/SPL/PDO/memcache/设计模式/ECharts**
+>**WebSocket引擎/CodeIgniter框架/SPL/PDO/memcache/设计模式/ECharts**
 
 * 2015.02 VirtualShell2 远程执行服务器命令
 >1. 单页面设计，命令行式交互，仿操作系统API设计JS函数
 >2. 松耦合语言包设计，可以随意装卸任意语言包
 >3. 可在无法访问VPN或SSH条件下使用  
->**WebSocket/LocalStorage/内存共享/Linux系统命令执行/安全策略**
+>**WebSocket引擎/LocalStorage/内存共享/Linux系统命令执行/安全策略**
 
 * 2015.01 沈阳工业大学排课系统1.5
 >1. 一键导出指定/所有实验室或教师课程安排及对应课程表于EXCEL文档中以便打印。
@@ -50,7 +50,7 @@
 * 2014.10 三位一体信息化社团建设套件第二版（**开发进行中**）
 
 * 2014.09 WebSocket框架Workerman二次开发
->将聊天室改造成允许API调用的底层引擎，意在此后的工程中取代Ajax  
+>将聊天室改造成允许API调用的底层引擎，意在此后的工程中取代Ajax及解决PhoneGap跨域问题  
 >**WebSocket/cURL/OOP**
 
 * 2014.07 ChatOS在线聊天系统

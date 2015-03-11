@@ -30,7 +30,7 @@
 ---
 
 #主要项目
-* 2015.02 [WSPDM2 基于PHP Websocket的数据库管理器](https://github.com/SUTFutureCoder/intelligence_server/tree/master/WSPDM2)
+* 2015.02 [WSPDM2 基于PHP Websocket的数据库管理器](https://github.com/SUTFutureCoder/intelligence_server)
 > **S** 同类的数据库管理器DBA无法同步即时协作，无法连接外网数据库，SQL语句构建速度较慢。
 > **T** 学习SPL、PDO、memcache等技术，预想用户操作需求，研究ANSI SQL标准以构建通用语句。
 > **A** WebSocket引擎允许DBA之间进行同步协作，防止脏数据产生。使用PDO理论支持多达13种数据库本地或远程连接，动态构建通用SQL语句。使用SPL高效率创建备份和回滚数据，[ECharts](https://github.com/ecomfe/echarts)构建图表以便分析。
@@ -40,7 +40,7 @@
 > **S** 每学期进行实验室排课安排需要学院集中开会研讨，传统记录和安排方式效率低、灵活性差。  
 > **T** 跟踪传统排课流程，收集负责教师需求，并首次尝试使用设计模式。允许各个教师在实验室空闲时间自行安排课程并导出Excel文档以便打印。  
 > **A** 根据现实情况添加排课、教师、课程、班级管理等功能并使用PHP EXCEL类支持一键导出指定/所有实验室或教师课程安排及对应课程表。  
-> **R** 已成功完成本学院实验室2014及2015年度全校排课任务。  
+> **R** 已成功完成本学院实验室2014及2015年度全校排课任务。 节约每教师每学期4小时及实验中心人力一人。 
 
 
 * 2014.10 [三位一体信息化社团建设套件第二版](https://github.com/SUTFutureCoder/nws_v2)（**开发进行中**）  

@@ -77,27 +77,27 @@
 ###专业技能
 * 2014.07 [第七届中国大学生计算机设计大赛 全国总决赛一等奖](http://jwzx.sut.edu.cn/jwc/content.jsp?id=44&xlh=681)
 * 2014.05 第七届中国大学生计算机设计大赛 辽宁赛区 二等奖
-* 2014.06 ACM/ICPC 东北赛区 二等奖
-* 2014.05 ACM/ICPC 辽宁赛区 三等奖
+* 2014.06 [ACM/ICPC 东北赛区 二等奖](https://github.com/SUTFutureCoder/resume/blob/master/ACM_second.jpg)  
+* 2014.05 [ACM/ICPC 辽宁赛区 三等奖](https://github.com/SUTFutureCoder/resume/blob/master/ACM_third.jpg)  
 * 2014.10 第七届全国大学生网络商务创新应用大赛 辽宁赛区 二等奖
-* 2013.11 第六届全国大学生网络商务创新应用大赛 全国总决赛 三等奖
-* 2013.10 第六届全国大学生网络商务创新应用大赛 东北赛区 综合一等奖
-* 2014.07 辽宁省大学生创业就业大赛公益创业赛 二等奖
+* 2013.11 [第六届全国大学生网络商务创新应用大赛 全国总决赛 三等奖](https://github.com/SUTFutureCoder/resume/blob/master/E-commerce_third.jpg)  
+* 2013.10 [第六届全国大学生网络商务创新应用大赛 东北赛区 综合一等奖](https://github.com/SUTFutureCoder/resume/blob/master/E-commerce_ace.jpg)  
+* 2014.07 [辽宁省大学生创业就业大赛公益创业赛 二等奖](https://github.com/SUTFutureCoder/resume/blob/master/entrepreneurship.jpg)  
 * 高中时期 省/市级电脑制作活动 网页组 一/二等奖 共五次
 
 ###综合素质
 * 2014.12 [中国仪器仪表学会二等奖学金](http://www.cis.org.cn/NewsDeltailed.aspx?id=554&PID=9)  （全国共19人）  
-* 2014.12 辽宁省政府奖学金  
-* 2014.12 一等校突出贡献奖   
-* 2014.11 校一等奖学金  
-* 2013.11 校二等奖学金  
-* 2014.12 校友工作学生志愿者协会 贡献奖  
+* 2014.12 [辽宁省政府奖学金](https://github.com/SUTFutureCoder/resume/blob/master/Provincial_Government_Scholarship.jpg)  
+* 2014.12 [一等校突出贡献奖](https://github.com/SUTFutureCoder/resume/blob/master/Contribution.jpg)   
+* 2014.11 [校一等奖学金](https://github.com/SUTFutureCoder/resume/blob/master/first_scholarship.jpg)  
+* 2013.11 [校二等奖学金](https://github.com/SUTFutureCoder/resume/blob/master/second_scholarship.jpg)  
+* 2014.12 [校友工作学生志愿者协会 贡献奖](https://github.com/SUTFutureCoder/resume/blob/master/volunteer.jpg)  
 * 2014.11 校“优秀团干部”称号  
-* 2014.11 院“十佳学习标兵”称号  
-* 2013.11 院“十佳科技创新标兵”称号  
-* 连续两年校“三好学生”称号  
+* 2014.11 [院“十佳学习标兵”称号](https://github.com/SUTFutureCoder/resume/blob/master/learning_model.jpg)  
+* 2013.11 [院“十佳科技创新标兵”称号](https://github.com/SUTFutureCoder/resume/blob/master/technology_pacesetter.jpg)
+* [2014](https://github.com/SUTFutureCoder/resume/blob/master/miyoshi_student.jpg)、[2013](https://github.com/SUTFutureCoder/resume/blob/master/miyoshi_student2.jpg)  两年“三好学生”称号
 
-**共获得各类荣誉32项**
+[**共获得各类荣誉32项**](https://github.com/SUTFutureCoder/resume/blob/master/college_awards.jpg)
 
 ---
 

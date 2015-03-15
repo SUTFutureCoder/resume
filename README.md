@@ -31,10 +31,10 @@
 
 #主要项目
 * 2015.02 [WSPDM2 基于PHP Websocket的数据库管理器](https://github.com/SUTFutureCoder/intelligence_server)
-> **S** 同类的数据库管理器DBA无法同步即时协作，无法连接外网数据库，SQL语句构建速度较慢。
-> **T** 学习SPL、PDO、memcache等技术，预想用户操作需求，研究ANSI SQL标准以构建通用语句。
-> **A** WebSocket引擎允许DBA之间进行同步协作，防止脏数据产生。使用PDO理论支持多达13种数据库本地或远程连接，动态构建通用SQL语句。使用SPL高效率创建备份和回滚数据，[ECharts](https://github.com/ecomfe/echarts)构建图表以便分析。
-> **R** 成功完成一个具有高实时性、通用性、轻量级、人性化界面设计等特性的数据库管理器，并且加深了对数据库语句的使用熟练度。  
+> **S** 同类的数据库管理器DBA无法同步即时协作，无法连接外网数据库，SQL语句构建速度较慢。  
+> **T** 学习SPL、PDO、memcache等技术，预想用户操作需求，研究ANSI SQL标准以构建通用语句。  
+> **A** WebSocket引擎允许DBA之间进行同步协作，防止脏数据产生。使用PDO理论支持多达13种数据库本地或远程连接，动态构建通用SQL语句。使用SPL高效率创建备份和回滚数据，[ECharts](https://github.com/ecomfe/echarts)构建图表以便分析。  
+> **R** 成功完成一个具有高实时性、通用性、轻量级、人性化界面设计等特性的数据库管理器，并且加深了对数据库语句的使用熟练度。    
 
 * 2015.01 [沈阳工业大学排课系统1.5](https://github.com/SUTFutureCoder/paike1.5)
 > **S** 每学期进行实验室排课安排需要学院集中开会研讨，传统记录和安排方式效率低、灵活性差。  

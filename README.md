@@ -14,6 +14,10 @@
 
 ---
 
+#工作经历
+
+---
+
 #技能清单
 * Web开发：PHP
 * Web框架：CodeIgniter
@@ -21,7 +25,7 @@
 * 单元测试：PHPUnit
 * 前端：HTML / CSS / JS（jquery）
 * 前端框架：Bootstrap / HTML5
-* 数据库相关：MySQL / MongoDB / PDO
+* 数据库相关：MySQL / MongoDB / PDO / ElasticSearch
 * 版本管理：Git
 * 其他：WebSocket / Ajax / SPL / cURL / Python / LocalStorage / PHPDOC / OOP / 敏捷项目开发、管理 / 设计模式 / 正则表达式 / 性能优化及安全常识 / 内部标准编程风格
 * 以Linux作为日常操作系统 
@@ -75,7 +79,7 @@
 
 # 曾获荣誉
 ###专业技能
-* 2015.08 [第八届中国大学生计算机设计大赛 全国总决赛一等奖]()
+* 2015.08 [第八届中国大学生计算机设计大赛 全国总决赛一等奖](https://raw.githubusercontent.com/SUTFutureCoder/resume/master/8th_gold_medal.jpg)
 * 2014.07 [第七届中国大学生计算机设计大赛 全国总决赛一等奖](http://jwzx.sut.edu.cn/jwc/content.jsp?id=44&xlh=681)
 * 2015.06 第八届中国大学生计算机设计大赛 辽宁赛区 一等奖
 * 2014.05 第七届中国大学生计算机设计大赛 辽宁赛区 二等奖

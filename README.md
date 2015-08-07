@@ -14,15 +14,6 @@
 
 ---
 
-#工作经历
-###百度实习（2015年7月至今）
-####[csiem云分析项目](http://gitlab.baidu.com/yejin01/csiem)
-我在此项目负责PHP中间件API以及其对应的[后台管理系统](http://gitlab.baidu.com/linxingchen/csiem_admin)的开发。  
-1. 无需培训即可根据需求迅速地高质量完成任务，并自学PHPDOC、PHPUnit、Redis、ElasticSearch、敏捷项目开发等知识。
-2. 在这个项目中，我最自豪的技术细节是高效地由数据库生成调度队列并从中获取本时刻需要执行的任务，通过使用SPL、Redis同步策略、动态挖坑填数据、手工组装JSON等技术实现，相比于传统遍历获取任务方法提升效率80%以上，支持了万级数据量的24小时任意时段任意间隔的定时任务即时获取。  
-
----
-
 #技能清单
 * Web开发：PHP
 * Web框架：CodeIgniter
@@ -35,6 +26,15 @@
 * 其他：WebSocket / Ajax / SPL / cURL / Python / LocalStorage / PHPDOC / OOP / 敏捷项目开发 / 设计模式 / 正则表达式 / 性能优化及安全常识 / 内部标准编程风格
 * 以Linux作为日常操作系统 
 * 业余管理两台阿里云和一台校园服务器OP
+
+---
+
+#工作经历
+###百度实习（2015年7月至今）
+####[csiem云分析项目](http://gitlab.baidu.com/yejin01/csiem)
+我在此项目负责PHP中间件API以及其对应的[后台管理系统](http://gitlab.baidu.com/linxingchen/csiem_admin)的开发。  
+1. 无需培训即可根据需求迅速地高质量完成任务，并自学PHPDOC、PHPUnit、Redis、ElasticSearch、敏捷项目开发等知识。
+2. 在这个项目中，我最自豪的技术细节是高效地由数据库生成调度队列并从中获取本时刻需要执行的任务，通过使用SPL、Redis同步策略、动态挖坑填数据、手工组装JSON等技术实现，相比于传统遍历获取任务方法提升效率80%以上，支持了万级数据量的24小时任意时段任意间隔的定时任务即时获取。  
 
 ---
 

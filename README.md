@@ -10,7 +10,7 @@
 * 本科 / 沈阳工业大学计算机科学与技术系 / 2012.09.01-2016.07.10
 * Github：<https://github.com/SUTFutureCoder>
 
-* 期望职位：PHP高级研发工程师
+* 期望职位：PHP研发工程师
 
 ---
 
@@ -19,7 +19,7 @@
 * MVC框架：CodeIgniter
 * Cache：Redis / memcache
 * 单元测试：PHPUnit
-* 前端：HTML / CSS / JS / jQuery库
+* 前端：HTML / CSS / JS / jQuery库 / 闭包风格
 * 前端框架：Bootstrap / HTML5
 * 数据库相关：MySQL / MongoDB / PDO
 * 版本管理：Git

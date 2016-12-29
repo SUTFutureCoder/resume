@@ -15,14 +15,14 @@
 ---
 
 #技能清单
-* Web开发：PHP
+* Web开发：PHP / GO
 * MVC框架：CodeIgniter
 * Cache：Redis / memcache
 * 单元测试：PHPUnit
 * 前端：HTML / CSS / JS / jQuery库 / 闭包风格
-* 前端框架：Bootstrap / HTML5
-* 数据库相关：MySQL / MongoDB / PDO
-* 版本管理：Git
+* 前端框架：Bootstrap / HTML5 / VUE
+* 数据库相关：MySQL / MongoDB / ElasticSearch / PDO
+* 版本管理：Git / SVN
 * 其他：Ajax / SPL / cURL / LocalStorage / PHPDOC / OOP / WebSocket / Python / 敏捷项目开发 / 设计模式 / 正则表达式 / 性能优化及安全常识 / 内部标准编程风格
 * 以Linux作为日常操作系统 
 * 业余管理两台阿里云和一台校园服务器OP
@@ -35,7 +35,7 @@
 ####[csiem云分析项目](http://xi.baidu.com/)
 * 在此项目负责作为项目中间件的PHP API以及其对应的后台管理系统的开发并书写全部接口的英文文档。目前已开发四十余个接口及对应的单元测试、一个后台管理系统整站及两千余行格式化英文文档。  
 
-###百度外卖 - 新品类部实习（2015年11月至2016年4月）
+###百度外卖 - 新品类部实习（2015年11月至今）
 ####[质享生活及商超频道](http://waimai.baidu.com/)
 * 在新品类部负责质享生活及商超频道的迭代、优化及管理后台开发等工作。支持团队实现全国配送、节日特色活动、商品分享图片生成、商超数据导出等功能。  
 

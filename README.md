@@ -5,7 +5,7 @@
 
 ---
 
-#个人信息
+# 个人信息
 * 林星辰 / 男 / 1994
 * 百度 / 云安全部 & 外卖研发中心 新品类部
 * 本科 / 沈阳工业大学计算机科学与技术系 / 2012.09.01-2016.07.10
@@ -15,7 +15,7 @@
 
 ---
 
-#技能清单
+# 技能清单
 * Web开发：PHP / GO
 * MVC框架：CodeIgniter
 * Cache：Redis / memcache
@@ -31,18 +31,18 @@
 
 ---
 
-#工作经历
-###百度 - 云安全部实习（2015年4月至2015年11月）
-####[csiem云分析项目](http://xi.baidu.com/)
+# 工作经历
+### 百度 - 云安全部实习（2015年4月至2015年11月）
+#### [csiem云分析项目](http://xi.baidu.com/)
 * 在此项目负责作为项目中间件的PHP API以及其对应的后台管理系统的开发并书写全部接口的英文文档。目前已开发四十余个接口及对应的单元测试、一个后台管理系统整站及两千余行格式化英文文档。  
 
-###百度 - 外卖研发中心 新品类部实习&正式（2015年11月至今）
-####[质享生活及商超频道](http://waimai.baidu.com/)
+### 百度 - 外卖研发中心 新品类部实习&正式（2015年11月至今）
+#### [质享生活及商超频道](http://waimai.baidu.com/)
 * 在新品类部负责质享生活及商超频道的迭代、优化及管理后台开发等工作。支持团队实现全国配送、节日特色活动、商品分享图片生成、商超数据导出等功能。  
 
 ---
 
-#主要项目
+# 主要项目
 * 2015.04 - 2015.07 [沈阳工业大学德智体积分评测系统](https://github.com/SUTFutureCoder/sut_score)
 > **S** 学校对于2014级以后入学的学生实行进行全面的评测积分制度，需要一个自动化抓取并计算，分类存储奖惩记录的评测系统。  
 > **T** 归纳整理2014级版学生须知手册中奖惩分级积分制度，实现批量绩点换算算法，学习Curl系列通讯函数。  
@@ -87,7 +87,7 @@
 ---
 
 # 曾获荣誉
-###专业技能
+### 专业技能
 * 2015.08 [第八届中国大学生计算机设计大赛 全国总决赛一等奖](https://raw.githubusercontent.com/SUTFutureCoder/resume/master/8th_gold_medal.jpg)（总排名：2）
 * 2014.07 [第七届中国大学生计算机设计大赛 全国总决赛一等奖](http://jwzx.sut.edu.cn/jwc/content.jsp?id=44&xlh=681)
 * 2015.06 第八届中国大学生计算机设计大赛 辽宁赛区 一等奖
@@ -100,7 +100,7 @@
 * 2014.07 [辽宁省大学生创业就业大赛公益创业赛 二等奖](https://github.com/SUTFutureCoder/resume/blob/master/entrepreneurship.jpg)  
 * 高中时期 省/市级电脑制作活动 网页组 一/二等奖 共五次
 
-###综合素质
+### 综合素质
 * 2014.12 [中国仪器仪表学会二等奖学金](http://www.cis.org.cn/NewsDeltailed.aspx?id=554&PID=9)  （全国共19人）  
 * 2014.12 [辽宁省政府奖学金](https://github.com/SUTFutureCoder/resume/blob/master/Provincial_Government_Scholarship.jpg)  
 * 2014.12 [一等校突出贡献奖](https://github.com/SUTFutureCoder/resume/blob/master/Contribution.jpg)   
@@ -116,5 +116,5 @@
 
 ---
 
-#致谢
+# 致谢
 感谢您阅读我的简历，期待能有机会和您共事。

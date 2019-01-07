@@ -89,7 +89,7 @@
 # 曾获荣誉
 ### 专业技能
 * 2015.08 [第八届中国大学生计算机设计大赛 全国总决赛一等奖](https://raw.githubusercontent.com/SUTFutureCoder/resume/master/8th_gold_medal.jpg)（总排名：2）
-* 2014.07 [第七届中国大学生计算机设计大赛 全国总决赛一等奖](http://jwzx.sut.edu.cn/jwc/content.jsp?id=44&xlh=681)
+* 2014.07 [第七届中国大学生计算机设计大赛 全国总决赛一等奖](https://github.com/SUTFutureCoder/resume/blob/master/7th_gold_medal.jpg)
 * 2015.06 第八届中国大学生计算机设计大赛 辽宁赛区 一等奖
 * 2014.05 第七届中国大学生计算机设计大赛 辽宁赛区 二等奖
 * 2014.06 [ACM/ICPC 东北赛区 二等奖](https://github.com/SUTFutureCoder/resume/blob/master/ACM_second.jpg)  

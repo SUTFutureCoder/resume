@@ -44,10 +44,10 @@
 
 # 曾获荣誉 / 晋升
 * 2018.04 晋升资深研发工程师 (最快速度晋升)
-* 2017.12 饿了么第二届Hackathon亚军
-* 2017.08 创新先锋奖
+* 2017.12 [饿了么第二届Hackathon亚军](https://github.com/SUTFutureCoder/resume/blob/master/hackathon2nd.jpeg)
+* 2017.08 [创新先锋奖](https://github.com/SUTFutureCoder/resume/blob/master/innovation_pioneer.jpeg)
 * 2017.04 晋升高级研发工程师
-* 2017.03 高效开发奖
+* 2017.03 [高效开发奖](https://github.com/SUTFutureCoder/resume/blob/master/efficient_development.jpeg)
 * 2016.12 百度外卖第一届Hackathon参与奖
 * 2016.07 毕业之前至高中时期 独立参加国家、省、市实践竞赛和学习共42项荣誉请见 [校招简历](https://github.com/SUTFutureCoder/resume/blob/master/README_SCHOOL_VER.md)
 

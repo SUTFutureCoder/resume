@@ -1,32 +1,37 @@
-# 个人信息
-* 林星辰 / 男 / 1994
-* 阿里巴巴集团 / 饿了么 / 新零售研发中心 / 资深研发工程师
-* 本科 / 沈阳工业大学计算机科学与技术系 / 2012.09.01-2016.07.10
-* Github：<https://github.com/SUTFutureCoder>
+# 联系方式
 * 手机：15101669791（北京）
 * Email：<FutureCoder@aliyun.com>
 * QQ：506200331
 
 ---
 
+# 个人信息
+* 林星辰 / 男 / 1994
+* 百度 / 云安全部 & 外卖研发中心 新品类部 / 高级研发工程师
+* 本科 / 沈阳工业大学计算机科学与技术系 / 2012.09.01-2016.07.10
+* Github：<https://github.com/SUTFutureCoder>
+
+* 期望职位：PHP高级研发工程师
+
+---
+
 # 技能清单
-* 语言：PHP / JAVA / GO / PYTHON / 前端系列
-* 框架：CodeIgniter(PHP) / Spring系列(JAVA) / Gin&Beego(GO)
-* Cache：Redis / Memcache
-* 前端：Vue / Bootstrap / HTML5 / jQuery库 / 闭包风格
-* 数据库相关：MySQL / MongoDB / ElasticSearch
-* 流式计算：Kafka / ZooKeeper / 协程计算
+* Web开发：PHP / GO
+* MVC框架：CodeIgniter
+* Cache：Redis / memcache
+* 单元测试：PHPUnit
+* 前端：HTML / CSS / JS / jQuery库 / 闭包风格
+* 前端框架：Bootstrap / HTML5 / VUE
+* 数据库相关：MySQL / MongoDB / ElasticSearch / PDO
 * 版本管理：Git / SVN
-* 以Linux & MacOS作为日常操作系统 
+* 其他：Ajax / SPL / cURL / LocalStorage / PHPDOC / OOP / WebSocket / Python / 敏捷项目开发 / 设计模式 / 正则表达式 / 性能优化及安全常识 / 内部标准编程风格
+* 以Linux作为日常操作系统 
 * 业余管理两台阿里云和一台校园服务器OP
-* 坚持每日练习提高&每周一本书
+* 坚持每日练习提高
 
 ---
 
 # 工作经历
-### 沈阳工业大学 - 实践类课程外聘教师（2018年11月至今）
-* 因在校时期工程、竞赛实践突出，并毕业后，指导多位后辈就职于一线互联网公司。
-
 ### 百度 - 云安全部实习（2015年4月至2015年11月）
 #### [csiem云分析项目](http://xi.baidu.com/)
 * 在此项目负责作为项目中间件的PHP API以及其对应的后台管理系统的开发并书写全部接口的英文文档。目前已开发四十余个接口及对应的单元测试、一个后台管理系统整站及两千余行格式化英文文档。  
@@ -83,7 +88,31 @@
 
 # 曾获荣誉
 ### 专业技能
-### 在校时期荣誉请见[]()
+* 2015.08 [第八届中国大学生计算机设计大赛 全国总决赛一等奖](https://raw.githubusercontent.com/SUTFutureCoder/resume/master/8th_gold_medal.jpg)（总排名：2）
+* 2014.07 [第七届中国大学生计算机设计大赛 全国总决赛一等奖](http://jwzx.sut.edu.cn/jwc/content.jsp?id=44&xlh=681)
+* 2015.06 第八届中国大学生计算机设计大赛 辽宁赛区 一等奖
+* 2014.05 第七届中国大学生计算机设计大赛 辽宁赛区 二等奖
+* 2014.06 [ACM/ICPC 东北赛区 二等奖](https://github.com/SUTFutureCoder/resume/blob/master/ACM_second.jpg)  
+* 2014.05 [ACM/ICPC 辽宁赛区 三等奖](https://github.com/SUTFutureCoder/resume/blob/master/ACM_third.jpg)  
+* 2014.10 第七届全国大学生网络商务创新应用大赛 辽宁赛区 二等奖
+* 2013.11 [第六届全国大学生网络商务创新应用大赛 全国总决赛 三等奖](https://github.com/SUTFutureCoder/resume/blob/master/E-commerce_third.jpg)  
+* 2013.10 [第六届全国大学生网络商务创新应用大赛 东北赛区 综合一等奖](https://github.com/SUTFutureCoder/resume/blob/master/E-commerce_ace.jpg)  
+* 2014.07 [辽宁省大学生创业就业大赛公益创业赛 二等奖](https://github.com/SUTFutureCoder/resume/blob/master/entrepreneurship.jpg)  
+* 高中时期 省/市级电脑制作活动 网页组 一/二等奖 共五次
+
+### 综合素质
+* 2014.12 [中国仪器仪表学会二等奖学金](http://www.cis.org.cn/NewsDeltailed.aspx?id=554&PID=9)  （全国共19人）  
+* 2014.12 [辽宁省政府奖学金](https://github.com/SUTFutureCoder/resume/blob/master/Provincial_Government_Scholarship.jpg)  
+* 2014.12 [一等校突出贡献奖](https://github.com/SUTFutureCoder/resume/blob/master/Contribution.jpg)   
+* 2014.11 [校一等奖学金](https://github.com/SUTFutureCoder/resume/blob/master/first_scholarship.jpg)  
+* 2013.11 [校二等奖学金](https://github.com/SUTFutureCoder/resume/blob/master/second_scholarship.jpg)  
+* 2014.12 [校友工作学生志愿者协会 贡献奖](https://github.com/SUTFutureCoder/resume/blob/master/volunteer.jpg)  
+* 2014.11 校“优秀团干部”称号  
+* 2014.11 [院“十佳学习标兵”称号](https://github.com/SUTFutureCoder/resume/blob/master/learning_model.jpg)  
+* 2013.11 [院“十佳科技创新标兵”称号](https://github.com/SUTFutureCoder/resume/blob/master/technology_pacesetter.jpg)
+* [2014](https://github.com/SUTFutureCoder/resume/blob/master/miyoshi_student.jpg)、[2013](https://github.com/SUTFutureCoder/resume/blob/master/miyoshi_student2.jpg)  两年“三好学生”称号
+
+[**共获得各类荣誉35项**](https://github.com/SUTFutureCoder/resume/blob/master/college_awards.jpg)
 
 ---
 

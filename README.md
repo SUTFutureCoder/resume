@@ -49,7 +49,7 @@
 #### [csiem云分析项目](http://xi.baidu.com/)
 * 在此项目负责作为项目中间件的PHP API以及其对应的后台管理系统的开发并书写全部接口的英文文档。开发四十余个接口及对应的单元测试、封装ElasticSearch检索方法、一个后台管理系统整站及两千余行格式化英文文档。 
 
-### 沈阳工业大学 - 实践类课程 - 外聘教师（2018年11月至今）
+### [沈阳工业大学 - 实践类课程 - 外聘教师](https://github.com/SUTFutureCoder/resume/blob/master/TeacherOfSUT.jpeg)（2018年11月至今）
 * [在校时期](https://github.com/SUTFutureCoder/resume/blob/master/README_SCHOOL_VER.md)工程、竞赛实践突出，毕业后义务面向计算机专业开展两次毕业就业指导会、多次线上义务集训指导，平均每年指导三位学生（专业不限）获得百度面试机会、多位入职一线互联网公司、多位在国家级竞赛获奖。曾两个月时间义务指导非计算机专业学生从沈阳华晨宝马到北京滴滴出行总部的就职飞跃。因此受邀担任沈阳工业大学信息科学与工程学院实践类课程外聘教师。
 
 ---
@@ -86,7 +86,7 @@
 ---
 
 ## 曾获荣誉 / 晋升
-* 2019.01 新零售研发部“一马当先”奖
+* 2019.01 [2018年度“一马当先”奖](https://github.com/SUTFutureCoder/resume/blob/master/TakeTheLead.jpeg)
 * 2018.04 晋升资深研发工程师 (最快速度晋升)
 * 2017.12 [饿了么第二届Hackathon亚军](https://github.com/SUTFutureCoder/resume/blob/master/hackathon2nd.jpeg)
 * 2017.08 [创新先锋奖](https://github.com/SUTFutureCoder/resume/blob/master/innovation_pioneer.jpeg)

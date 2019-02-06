@@ -102,6 +102,7 @@
 * 高中时期 省/市级电脑制作活动 网页组 一/二等奖 共五次
 
 ### 综合素质
+* 2016.07 [辽宁省](https://github.com/SUTFutureCoder/resume/blob/master/province_Excellent%20graduate.jpg)、[校](https://github.com/SUTFutureCoder/resume/blob/master/school_excellent_graduate.jpeg) 优秀毕业生  
 * 2014.12 [中国仪器仪表学会二等奖学金](http://www.cis.org.cn/NewsDeltailed.aspx?id=554&PID=9)  （全国共19人）  
 * 2014.12 [辽宁省政府奖学金](https://github.com/SUTFutureCoder/resume/blob/master/Provincial_Government_Scholarship.jpg)  
 * 2014.12 [一等校突出贡献奖](https://github.com/SUTFutureCoder/resume/blob/master/Contribution.jpg)   

@@ -2,7 +2,7 @@
 * 林星辰 / 男 / 1994
 * 手机：15101669791（北京）
 * 阿里巴巴集团 / 饿了么 / 新零售研发中心 / 资深研发工程师 / 2015.11至今
-* 硕士已录取 / 北京航空航天大学 非全软件工程 人工智能方向 / 2019.09.01-2021.01
+* 硕士已录取 / 北京航空航天大学 统招非全软件工程 人工智能方向 / 2019.09.01-2021.01
 * 本科 / 沈阳工业大学计算机科学与技术系 / 2012.09.01-2016.07.10 / [校园时期简历](https://github.com/SUTFutureCoder/resume/blob/master/README_SCHOOL_VER.md)
 * Github：<https://github.com/SUTFutureCoder>
 * Email：<FutureCoder@aliyun.com>

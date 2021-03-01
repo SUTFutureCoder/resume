@@ -21,7 +21,7 @@
 * 以Linux & MacOS作为日常操作系统 
 * 坚持全栈练习提高（请见[github repo](https://github.com/SUTFutureCoder?tab=repositories)） / 每周一本书  
 * 擅长独立或合作快速完成整个项目，并保持高提前上线率、低BUG率、低事故率
-* 二外：日语N2
+* 外语：日语N2、CET4 & 6
 
 ## 工作经历
 ### 阿里巴巴集团 - 饿了么 新零售研发中心 - 实习→资深研发工程师（2015年11月至今）

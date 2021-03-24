@@ -8,7 +8,7 @@
 * Email：<FutureCoder@aliyun.com>
 
 ## 技能清单
-* 语言：Golang / JAVA / PHP / Python / 前端系列
+* 语言：Golang / JAVA / C# / PHP / Python / 前端系列
 * 人工智能深度学习系列 [新冠肺炎CT识别](https://colab.research.google.com/drive/1TdP5AecNcIQWDD1EhcGWbTf8CGP5A5hx?usp=sharing) [图像检索](https://colab.research.google.com/drive/13uFqZmEl9FRfQ2kip8osnCSqDtwZNk5T?usp=sharing)  
 * 框架：CodeIgniter(PHP) / SSM(JAVA) / Gin&Beego(GO)
 * 前端 & 跨平台：Vue / Bootstrap / HTML5 / jQuery / 闭包风格 / Chrome拓展 / PhoneGap

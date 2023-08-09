@@ -1,7 +1,7 @@
 ## 个人信息
 * **林星辰** / 男 / 1994
 * **15101669791** / <FutureCoder@aliyun.com>
-* **阿里巴巴集团** / **开发专家P7** / 零售商品&智能工程技术组 / 搜推工程 / 2015.11至今
+* **阿里巴巴集团** / **开发专家P7** / 零售商品&搜推工程 / 2015.11至今
 * **工程硕士** / 北京航空航天大学 软件工程 / 2019.09~2023.01
 * <https://github.com/SUTFutureCoder> / [project256.com](https://project256.com)
 
@@ -12,9 +12,8 @@
 * 语言： JAVA / Golang / Dart / C# / PHP / Python / 前端系列
 * 算法：搜索推荐算法 / 深度学习算法 / [新冠肺炎CT识别](https://colab.research.google.com/drive/1TdP5AecNcIQWDD1EhcGWbTf8CGP5A5hx?usp=sharing) [图像检索](https://colab.research.google.com/drive/13uFqZmEl9FRfQ2kip8osnCSqDtwZNk5T?usp=sharing)  
 * 架构：搜索推荐 / 商品库 / 营销 / 支付 / 订单 / 仓储
-* 跨端：Vue / Bootstrap / HTML5 / jQuery / Chrome拓展 / Flutter / PhoneGap
+* 跨端：Vue / Bootstrap / HTML5 / jQuery / Chrome拓展 / Flutter / PhoneGap / 小程序
 * 数据：MySQL / MongoDB / OpenTSDB / ElasticSearch / Redis / Memcache
-* 组件：Kafka / RabbitMQ / Nginx / Dubbo / Netty / ZooKeeper 
 * 其他：[发明专利一项](https://aiqicha.baidu.com/patent/info?referId=39a9e6674280d57ea33fb0d7bda3bd4f1e367f56&pid=85252215899659) / AHA急救证书 / ESG证书 / 日语N2 / CET6 / 马拉松&铁人三项爱好者  
 * 全栈开发 / 每周一本书 / 提效工具开发 / 擅长分享演讲 / 爱好钢琴等乐器
 
@@ -23,7 +22,7 @@
 ## 工作经历
 ### 阿里巴巴集团 - 本地生活 - 开发专家P7（2015年11月至今）
 
-#### 零售商品&智能工程技术组（2021年09月至今）
+#### 零售商品&搜推工程（2021年09月至今）
 
 * 邀请您打开饿了么App，进入商超 / 医药 / 生鲜 / 鲜花等非餐饮频道，点击任意一家店。您所见店内的一切商品和活动的召回、聚合及排序策略均由本人负责。
 * 业务：负责饿了么零售域店内项目迭代，通过技术和算法手段提升店内转化率、访购率。负责的全能超市项目，支持了疫情封城期间小区居民的集采和定点配送需求。通过多级降级等稳定性手段，保障店内核心场景无事故。挖掘可复用组件，提升小组开发效率。通过大规模自动化核对手段，确保开发平台迁移前后的数据和协议一致性，避免发生故障同时节约100余人日核对时间。

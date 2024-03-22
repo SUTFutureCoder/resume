@@ -9,10 +9,10 @@
 
 ## 技能清单
 
-* 语言： JAVA / Golang / Dart / C# / PHP / Python / 前端系列
-* 算法：搜索推荐算法 / 深度学习算法 / [新冠肺炎CT识别](https://colab.research.google.com/drive/1TdP5AecNcIQWDD1EhcGWbTf8CGP5A5hx?usp=sharing) [图像检索](https://colab.research.google.com/drive/13uFqZmEl9FRfQ2kip8osnCSqDtwZNk5T?usp=sharing)  
+* 语言： JAVA / Golang / Python / 前端系列 / C# / PHP
+* 算法：搜索推荐算法 / [LLaMA](https://github.com/SUTFutureCoder/CLANNAD_LLaMA) / StableDiffusion / 机器学习算法 / [新冠肺炎CT识别](https://colab.research.google.com/drive/1TdP5AecNcIQWDD1EhcGWbTf8CGP5A5hx?usp=sharing) [图像检索](https://colab.research.google.com/drive/13uFqZmEl9FRfQ2kip8osnCSqDtwZNk5T?usp=sharing)  
 * 架构：搜索推荐 / 商品库 / 营销 / 支付 / 订单 / 仓储
-* 跨端：Vue / Bootstrap / HTML5 / jQuery / Chrome拓展 / Flutter / PhoneGap / 小程序
+* 跨端：React / React Native / Vue / 小程序 / Bootstrap / HTML5 / jQuery / Chrome拓展 / PhoneGap
 * 数据：MySQL / MongoDB / OpenTSDB / ElasticSearch / Redis / Memcache
 * 其他：[发明专利一项](https://aiqicha.baidu.com/patent/info?referId=39a9e6674280d57ea33fb0d7bda3bd4f1e367f56&pid=85252215899659) / AHA急救证书 / ESG证书 / 日语N2 / CET6 / 马拉松&铁人三项爱好者  
 * 全栈开发 / 每周一本书 / 提效工具开发 / 擅长分享演讲 / 爱好钢琴等乐器
@@ -24,9 +24,9 @@
 
 #### 零售商品&搜推工程（2021年09月至今）
 
-* 邀请您打开饿了么App，进入商超 / 医药 / 生鲜 / 鲜花等非餐饮频道，点击任意一家店。您所见店内的一切商品和活动的召回、聚合及排序策略均由本人负责。
-* 业务：负责饿了么零售域店内项目迭代，通过技术和算法手段提升店内转化率、访购率。负责的全能超市项目，支持了疫情封城期间小区居民的集采和定点配送需求。通过多级降级等稳定性手段，保障店内核心场景无事故。挖掘可复用组件，提升小组开发效率。通过大规模自动化核对手段，确保开发平台迁移前后的数据和协议一致性，避免发生故障同时节约100余人日核对时间。
-* 提效：负责自研钉钉智能机器人SDK，提供基于钉钉交互的免开发、快速排版、数据收集分析、自助回复提效方案，将研发人员从手动捞日志、查数据、排查问题、回复消息等重复且无意义的消息打断中解放出来。2022年3月至2023年3月已推动20个团队接入，覆盖团队、项目及个人使用场景，共降低1907.21重复性劳动人日。
+* 邀请您打开饿了么App，进入商超 / 医药 / 生鲜 / 鲜花等非餐饮频道，点击任意一家店。您所见店内的一切商品和活动的管理、召回、聚合及排序策略均由本人负责。
+* 业务：负责饿了么零售商品域项目迭代、检索搭建、使用机器学习及大模型算法优化商品管理体验，通过技术和算法手段提升店内转化率、访购率。负责的全能超市项目，支持了疫情封城期间小区居民的集采和定点配送需求。通过多级降级等稳定性手段，保障店内核心场景无事故。挖掘可复用组件，提升小组开发效率。通过大规模自动化核对手段，确保开发平台迁移前后的数据和协议一致性，避免发生故障同时节约100余人日核对时间。
+* 提效：负责自研钉钉智能机器人SDK，提供基于钉钉交互的免开发、快速排版、数据收集分析、自助回复提效方案，将研发人员从手动捞日志、查数据、排查问题、回复消息等重复且无意义的消息打断中解放出来。2022年3月至2023年3月已推动20个团队接入，覆盖团队、项目及个人使用场景，共降低5K余重复劳动人日。
 
 #### 营销&稳定性研发组（2019年07月至2021年09月）
 

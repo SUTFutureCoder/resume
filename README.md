@@ -10,7 +10,7 @@
 ## 技能清单
 
 * 语言： JAVA / Golang / Python / Swift / 前端系列 / C# / PHP
-* 算法：搜索推荐算法 / [LLaMA](https://github.com/SUTFutureCoder/CLANNAD_LLaMA) / StableDiffusion / 机器学习算法 / [新冠肺炎CT识别](https://colab.research.google.com/drive/1TdP5AecNcIQWDD1EhcGWbTf8CGP5A5hx?usp=sharing) [图像检索](https://colab.research.google.com/drive/13uFqZmEl9FRfQ2kip8osnCSqDtwZNk5T?usp=sharing)  
+* 算法：搜索推荐算法 / RAG / [LLaMA](https://github.com/SUTFutureCoder/CLANNAD_LLaMA) / StableDiffusion / 机器学习算法 / [新冠肺炎CT识别](https://colab.research.google.com/drive/1TdP5AecNcIQWDD1EhcGWbTf8CGP5A5hx?usp=sharing) [图像检索](https://colab.research.google.com/drive/13uFqZmEl9FRfQ2kip8osnCSqDtwZNk5T?usp=sharing)  
 * 架构：搜索推荐 / 商家端 / 商品库 / 营销 / 支付 / 订单 / 仓储
 * 跨端：SwiftUI / React / React Native / Vue / 小程序 / Bootstrap / HTML5 / jQuery / Chrome拓展 / PhoneGap
 * 数据：MySQL / MongoDB / OpenTSDB / ElasticSearch / Redis / Memcache

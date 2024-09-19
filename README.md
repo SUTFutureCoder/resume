@@ -15,7 +15,7 @@
 * 跨端：SwiftUI / React / React Native / Vue / 小程序 / Bootstrap / HTML5 / jQuery / Chrome拓展 / PhoneGap
 * 数据：MySQL / MongoDB / OpenTSDB / ElasticSearch / Redis / Memcache
 * 其他：[发明专利一项](https://aiqicha.baidu.com/patent/info?referId=39a9e6674280d57ea33fb0d7bda3bd4f1e367f56&pid=85252215899659) / AHA急救证书 / ESG证书 / 日语N2 / CET6 / 马拉松&铁人三项爱好者  
-* BAT大满贯 / 全栈开发 / 每周一本书 / 提效工具开发 / 擅长分享演讲 / 爱好钢琴等乐器
+* BAT大满贯 / 全栈开发 / 每周一本书 / 提效工具开发 / 擅长分享演讲 / 爱好钢琴等乐器 / LOL辅助专精
 
 ---
 

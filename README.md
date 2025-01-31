@@ -1,21 +1,20 @@
 ## 个人信息
 * **林星辰** / 男 / 1994
 * **15101669791** / <FutureCoder@aliyun.com>
-* **阿里巴巴集团** / **开发专家P7** / 零售商品&搜推工程 / 2015.11至今
+* **阿里巴巴集团** / **开发专家P7** / 零售商户 / 2015.11至今
 * **工程硕士** / 北京航空航天大学 软件工程 / 2019.09~2023.01
 * [project256.com](https://project256.com) / <https://github.com/SUTFutureCoder>
 
 ---
 
 ## 技能清单
-
 * 语言： JAVA / Golang / Python / 前端系列 / Lua / C# / PHP
 * 算法：搜索推荐算法 / 量化交易 / [LLaMA](https://github.com/SUTFutureCoder/CLANNAD_LLaMA) / StableDiffusion / 机器学习算法 / [新冠肺炎CT识别](https://colab.research.google.com/drive/1TdP5AecNcIQWDD1EhcGWbTf8CGP5A5hx?usp=sharing) [图像检索](https://colab.research.google.com/drive/13uFqZmEl9FRfQ2kip8osnCSqDtwZNk5T?usp=sharing)  
-* 架构：搜索推荐 / 百亿级商品库 / 商家 / 营销 / 支付 / 订单 / 仓储 / IoT ThingsBoard / Blockly
-* 跨端：React / React Native / Vue / 小程序 / Bootstrap / HTML5 / jQuery / Chrome拓展 / PhoneGap
+* 架构：搜索推荐 / 百亿级商品库 / 商家端 / 营销 / 支付 / 订单 / 仓储 / IoT ThingsBoard / Blockly
+* 跨端：SwiftUI / React / React Native / Vue / 小程序 / Bootstrap / HTML5 / jQuery / Chrome拓展 / PhoneGap
 * 数据：MySQL / MongoDB / OpenTSDB / ElasticSearch / Redis / Memcache
 * 其他：[发明专利](https://aiqicha.baidu.com/patent/info?referId=39a9e6674280d57ea33fb0d7bda3bd4f1e367f56&pid=85252215899659) / AHA急救证书 / ESG证书 / 日语N2 / CET6 / 马拉松&铁人三项爱好者  
-* BAT就职大满贯🏆 / 全栈开发 / 武器大师 / 每周一本书 / 提效工具开发 / 擅长分享演讲 / 爱好钢琴等乐器 / 热爱开发至死
+* BAT就职大满贯🏆 / 全栈航母 / 每周一本书 / 提效工具开发 / 擅长分享演讲 / 爱好钢琴等乐器
 
 ---
 

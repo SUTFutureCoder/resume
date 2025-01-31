@@ -3,19 +3,19 @@
 * **15101669791** / <FutureCoder@aliyun.com>
 * **阿里巴巴集团** / **开发专家P7** / 零售商品&搜推工程 / 2015.11至今
 * **工程硕士** / 北京航空航天大学 软件工程 / 2019.09~2023.01
-* <https://github.com/SUTFutureCoder> / [project256.com](https://project256.com)
+* [project256.com](https://project256.com) / <https://github.com/SUTFutureCoder>
 
 ---
 
 ## 技能清单
 
-* 语言： JAVA / Golang / Python / 前端系列 / C# / PHP
-* 算法：搜索推荐算法 / [LLaMA](https://github.com/SUTFutureCoder/CLANNAD_LLaMA) / StableDiffusion / 机器学习算法 / [新冠肺炎CT识别](https://colab.research.google.com/drive/1TdP5AecNcIQWDD1EhcGWbTf8CGP5A5hx?usp=sharing) [图像检索](https://colab.research.google.com/drive/13uFqZmEl9FRfQ2kip8osnCSqDtwZNk5T?usp=sharing)  
-* 架构：搜索推荐 / 商品库 / 营销 / 支付 / 订单 / 仓储
+* 语言： JAVA / Golang / Python / 前端系列 / Lua / C# / PHP
+* 算法：搜索推荐算法 / 量化交易 / [LLaMA](https://github.com/SUTFutureCoder/CLANNAD_LLaMA) / StableDiffusion / 机器学习算法 / [新冠肺炎CT识别](https://colab.research.google.com/drive/1TdP5AecNcIQWDD1EhcGWbTf8CGP5A5hx?usp=sharing) [图像检索](https://colab.research.google.com/drive/13uFqZmEl9FRfQ2kip8osnCSqDtwZNk5T?usp=sharing)  
+* 架构：搜索推荐 / 百亿级商品库 / 商家 / 营销 / 支付 / 订单 / 仓储 / IoT ThingsBoard / Blockly
 * 跨端：React / React Native / Vue / 小程序 / Bootstrap / HTML5 / jQuery / Chrome拓展 / PhoneGap
 * 数据：MySQL / MongoDB / OpenTSDB / ElasticSearch / Redis / Memcache
-* 其他：[发明专利一项](https://aiqicha.baidu.com/patent/info?referId=39a9e6674280d57ea33fb0d7bda3bd4f1e367f56&pid=85252215899659) / AHA急救证书 / ESG证书 / 日语N2 / CET6 / 马拉松&铁人三项爱好者  
-* BAT大满贯 / 全栈开发 / 每周一本书 / 提效工具开发 / 擅长分享演讲 / 爱好钢琴等乐器
+* 其他：[发明专利](https://aiqicha.baidu.com/patent/info?referId=39a9e6674280d57ea33fb0d7bda3bd4f1e367f56&pid=85252215899659) / AHA急救证书 / ESG证书 / 日语N2 / CET6 / 马拉松&铁人三项爱好者  
+* BAT就职大满贯🏆 / 全栈开发 / 武器大师 / 每周一本书 / 提效工具开发 / 擅长分享演讲 / 爱好钢琴等乐器 / 热爱开发至死
 
 ---
 
@@ -50,14 +50,8 @@
 
 ---
 
-### 沈阳工业大学 - 实践类课程外聘教师 - 志愿者性质（2018年11月至今）
+### 沈阳工业大学 - 实践类课程外聘教师（2018年11月至今）
 因在校时期工程、竞赛实践突出，毕业后每年面向信息类专业学生，教授毕业就业指导课程。每年指导多位学生在国家级竞赛获奖、获得一线大厂面试机会、入职一线互联网公司。受邀并担任沈阳工业大学信息科学与工程学院实践类课程外聘教师，课程可赋予每位学生1学分。每年围绕校招主题，从学生角度通过不同的类比（面向对象、历史、游戏、运动、经济学）形式展现，有效提升演讲内容可理解、可实践程度。重置PPT的同时积累了大量的灵感、总结、分享、演讲经验。
-
----
-
-## 荣誉
-* `2022.12 极具匠心奖（提效工具）`  `2021.09 金麒麟奖（稳定性）`  `2020.01 定海神针奖（稳定性）` `2019.07 团队精神奖（支援紧急项目）`  `2019.01 一马当先奖（技术栈迁移）` `2017.12 饿了么第二届Hackathon亚军（产品创意及实现）` `2017.08 创新先锋奖（工具开发）` `2017.03 高效开发奖（高效交付）  `
-* `2023.01 北京市优秀毕业生`  `2021.01 北京航空航天大学优秀研究生` `2020.08 北京航空航天大学优秀学生干部` `2016.07 辽宁省优秀毕业生` `2015.08&2014.07 第八届&第七届中国大学生计算机设计大赛 全国总决赛一等奖` `2014.06 ACM/ICPC 东北赛区二等奖` `2014.12 中国仪器仪表学会二等奖学金&辽宁省政府奖学金` 等
 
 ---
 

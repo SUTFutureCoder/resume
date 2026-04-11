@@ -14,10 +14,10 @@
 ## 技能清单
 
 - 语言： JAVA / Golang / Python / Lua / C# / PHP / 前端全家桶 / 语言互转 / [自创语言](https://github.com/SUTFutureCoder/xingchen_lang)
-- 算法：[量化交易](https://github.com/STARRY-INTELLIGENCE-TECHNOLOGY-LIMITED/QuantAda) / 搜索推荐算法 / 大模型:PT SFT HNSW / 机器学习算法:GBDT / 视觉算法:[新冠肺炎CT识别](https://colab.research.google.com/drive/1TdP5AecNcIQWDD1EhcGWbTf8CGP5A5hx?usp=sharing)
+- 算法：[量化交易](https://github.com/STARRY-INTELLIGENCE-TECHNOLOGY-LIMITED/QuantAda) / 搜索推荐算法 / 大模型:PT SFT HNSW / 机器学习算法:GBDT / [影像识别](https://colab.research.google.com/drive/1TdP5AecNcIQWDD1EhcGWbTf8CGP5A5hx?usp=sharing)
 - 架构：[边缘计算](https://github.com/STARRY-INTELLIGENCE-TECHNOLOGY-LIMITED/GopherMesh) / 搜索推荐 / 物联网 / 百亿级商品库 / AI系列 / 商家 / 营销 / 支付 / 订单 / 仓储 / SRE稳定性
-- 跨端：Vue / React / React Native / 小程序 / SwiftUI / Bootstrap / HTML5 / jQuery / Chrome拓展
-- 数据：MySQL / PostgreSQL / MongoDB / OpenTSDB / ElasticSearch / Redis / Memcache / MaxCompute
+- 跨端：[小程序](https://project256.oss-cn-beijing.aliyuncs.com/uPic/mini_qrcode.jpg) / Vue / React / React Native / SwiftUI / Bootstrap / HTML5 / jQuery / Chrome拓展
+- 数据：[DataEase](https://quant.project256.com/#/de-link/quantver3) / MySQL / PostgreSQL / MongoDB / OpenTSDB / ElasticSearch / Redis / Memcache
 - 其他：[发明专利](https://aiqicha.baidu.com/patent/info?referId=39a9e6674280d57ea33fb0d7bda3bd4f1e367f56&pid=85252215899659) / 提效工具开发 / 擅长分享演讲 / AHA急救 / 日语N2 / CET6 / 马拉松&铁人三项爱好者
 
 ## 工作经历
@@ -32,7 +32,7 @@
 
 - 独立完成**百亿级商品库检索引擎平滑迁移**，**自制Rosetta SQL动态编译器**，通过严格遵守策略模式和IOC，提升代码可读性、可维护性、逻辑一致性、检索迁移及排障效率。
 - 使用多模态模型和图谱信息增强学习，预测准确率：三级类目94%、品牌93.4%、重量97.14%，零售核心Top500**高GMV商品重合率约63%**，医药行业算法预测TOP300较人工运营**GMV提升约18%**
-- 主导裁剪OpenAPI冗余调用步骤和链路，**每日降低2千万API无效调用**，**每年节约超百万云资源成本**。
+- 主导裁剪OpenAPI冗余调用步骤和链路，**每日降低2千万API无效调用**，**每年节约超百万资源成本**。
 
 #### 搜索推荐（2022年）
 
@@ -67,7 +67,7 @@
 
 #### [GopherMesh](https://github.com/STARRY-INTELLIGENCE-TECHNOLOGY-LIMITED/GopherMesh) 轻量级边缘计算与进程编排网关 | 独立开发者
 
-- **算力调度与网关架构**：纯 Go 实现的零依赖 L7/L4 透明代理网关，支持基于请求的缩容至零与按需冷启动进程。
+- **算力调度与网关架构**：纯 Go 实现的零依赖 L7/L4+STDIO 透明代理网关，支持基于请求的缩容至零与按需冷启动进程。
 
 - **桌面自举与算力白嫖**：设计系统级协议唤醒机制，透明调度客户机底层算力，有效解决 IoT 前端在贝叶斯优化等重计算场景下的性能瓶颈。
 
